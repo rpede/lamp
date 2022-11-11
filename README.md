@@ -1,4 +1,4 @@
-# LAMP stack 
+# LAMP development stack 
 
 LAMP stack running in docker containers.
 
@@ -22,3 +22,7 @@ You might need to change the port for php service in `docker-compose.yml` to:
       - 8080:80
 ```
 
+## TODO
+
+- [ ] debug php
+- [ ] customize php and apache config
